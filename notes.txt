@@ -1,0 +1,14 @@
+Sistem Penggajian yg belum:
+-> role manager
+	*belum semua
+
+-> role HRD
+	1. PPh 21
+	2. Rekap Gaji
+	3. THR
+	4. PHK/Pesangon
+	5. Komplen
+	6. Change Profile (All user)
+
+-> role Staff
+	*belum semua
